@@ -1,7 +1,7 @@
-# Nombre:
+# Nombre: ARte
 
 **Versión:** 2020.3
 
-**Renderer Pipeline:** URP
+**Renderer Pipeline:** Standar
 
-**Dispositivo:** Escritorio
+**Dispositivo:** Andorid
